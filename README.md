@@ -15,3 +15,6 @@
 ## 转6个pt的pytorch代码
 [https://download.csdn.net/download/yang332233/12978912]
 
+## pytroch1.1 libtorch1.1 cuda10包含libtorch实现和转6个pt
+[https://download.csdn.net/download/yang332233/12979389]
+
